@@ -4,7 +4,8 @@
 - 23.08.11 ~ 23.09.07
 
 ## 프로세스
-![image](https://github.com/zoe-0314/DL_CCTV_project/assets/119393455/c91bc666-2512-4d60-920e-a762a6419b11)
+![image](https://github.com/zoe-0314/DL_CCTV_project/assets/119393455/5f6d3f76-ed54-4c4f-9109-1329c9628c52)
+
 
 ## 담당 역할
 ### CASE 1-1 : 이상탐지 모델(RTFM)
